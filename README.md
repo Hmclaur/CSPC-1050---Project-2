@@ -1,2 +1,3 @@
 # CSPC-1050---Project-2
 Repo for Project 2: 
+    This project is an RPG (Role-Playing Game) adventure game implemented in Python. In the game, players navigate through a series of rooms within a cave, encountering various challenges such as battles with monsters, interactions with merchants, and the discovery of treasure chests. The player's goal is to survive through all the rooms and emerge victorious by clearing the 10th room.  
