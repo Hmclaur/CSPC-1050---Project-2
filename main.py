@@ -4,7 +4,7 @@ Date:           Saturday, April 27
 Assignment:     Project 2
 Course:         CPSC1050
 Lab Section:    001
-
+GitHub Link: https://github.com/Hmclaur/CSPC-1050---Project-2
 CODE DESCRIPTION:  In this project, I have created a game where you have to secape from a cave by selecting different tunnels and fighting monsters.  You can also recieve rewards and puchase upgrades from a shop.  
 
 """
