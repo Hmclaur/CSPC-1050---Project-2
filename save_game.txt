@@ -1,1 +1,1 @@
-{"hp": 30, "gold": 20, "damage": 1, "room_count": 5}
+{"hp": 40, "gold": 40, "damage": 1, "room_count": 7}
